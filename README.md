@@ -2,7 +2,7 @@
 <h3 align="center">"Data is the new oil. It's valuable, but if unrefined, it cannot really be used." - Clive Humby</h3>
 
 
-- 💬 Ask me about **sql, python, power bi**
+- 💬 Ask me about **ML, sql, python, power bi**
 
 - 📫 How to reach me **samuelaregbesola@gmail.com**
 
